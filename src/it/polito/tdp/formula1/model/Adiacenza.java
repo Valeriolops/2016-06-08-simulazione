@@ -10,5 +10,5 @@ public Adiacenza(Circuit c1, Integer n) {
 	this.c1 = c1;
 	this.n = n;
 }
- 
+ //test
 }
